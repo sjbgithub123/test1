@@ -1,4 +1,4 @@
-﻿package directoty1.directory2.test;
+package directoty1.directory2.test;
 
 import android.app.*;
 import android.os.*;
